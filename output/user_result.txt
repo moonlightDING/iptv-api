@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-19 14:38:10,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-04-19 15:32:35,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -519,22 +519,22 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
 笑傲江湖,https://live.iill.top/huya/23865142
 笑傲江湖,http://live.iill.top/yy.php?id=1354282410
-笑傲江湖,http://1.94.31.214:35455/huya/26355790
 笑傲江湖,http://61.133.118.228:5001/yy/1355067965
+笑傲江湖,http://1.94.31.214:35455/huya/26355790
 笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
 天龙八部,http://luobo.bkpcp.top/yy/1382736855
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,http://cfss.cc/api/yy/1351814644.m3u8
 天龙八部,http://live.iill.top/yy.php?id=1351814644
-天龙八部,http://1.94.31.214:35455/huya/23903123
-天龙八部,http://61.133.118.228:5001/yy/1351814644
 天龙八部,https://vip.ffzy-play5.com/20230121/6052_87b1c663/2000k/hls/mixed.m3u8
+天龙八部,http://61.133.118.228:5001/yy/1351814644
+天龙八部,http://1.94.31.214:35455/huya/23903123
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
 鹿鼎记,http://luobo.bkpcp.top/yy/1382704650
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
-鹿鼎记,http://1.94.31.214:35455/yy/28265277
 鹿鼎记,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
+鹿鼎记,http://1.94.31.214:35455/yy/28265277
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 仙剑奇侠传,http://1.94.31.214:35455/yy/1382749903
 西游记,http://1.94.31.214:35455/huya/26355861
@@ -547,20 +547,20 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
-新白娘子传奇,http://1.94.31.214:35455/yy/1354490667
 新白娘子传奇,http://61.133.118.228:5001/yy/1354490667
+新白娘子传奇,http://1.94.31.214:35455/yy/1354490667
 济公游记,http://live.iill.top/yy.php?id=1355265814
 济公游记,http://1.94.31.214:35455/yy/21482
 封神榜,http://luobo.bkpcp.top/yy/1353426319
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,http://live.iill.top/yy.php?id=1353426319
-封神榜,http://1.94.31.214:35455/huya/29465849
 封神榜,http://61.133.118.228:5001/yy/1353426319
+封神榜,http://1.94.31.214:35455/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,http://61.133.118.228:5001/yy/1382745184
-上海滩,https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
+上海滩,https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 射雕英雄传,http://cfss.cc/api/yy/1354210357.m3u8
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
