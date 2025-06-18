@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-17 15:34:19,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-06-18 15:34:10,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -511,6 +511,7 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 云南卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
 
 安徽频道,#genre#
+安徽影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=057a18&tk=6949f8ce7202
 安徽影视,http://api2.52tb.xyz/info?id=584&token=20230218jsyklh
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
@@ -534,7 +535,6 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 鹿鼎记,http://cdn.jdshipin.com:8880/huya.php?id=23865080
 鹿鼎记,http://1.94.31.214:35455/yy/28265277
-鹿鼎记,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 仙剑奇侠传,http://1.94.31.214:35455/yy/1382749903
 西游记,http://1.94.31.214:35455/huya/26355861
@@ -559,8 +559,8 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,https://www.goodiptv.club/yy/1382745184
-上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
+上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 射雕英雄传,http://cfss.cc/api/yy/1354210357.m3u8
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
