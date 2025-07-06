@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-05 15:31:18,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-07-06 15:30:39,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -542,7 +542,6 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,http://live.metshop.top/huya/11602081
 三国演义,http://1.94.31.214:35455/huya/11602081
-三国演义,http://lunbo.freetv.top/yy/1354930932
 三国演义,https://lunbo.freetv.top/yy/1354930932
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://lunbo.freetv.top/yy/1353215589
