@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-14 15:42:50,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-02-15 14:56:04,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -516,6 +516,7 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=23749096
 封神榜,https://www.goodiptv.club/yy/1382797534
 封神榜,http://live.ottiptv.cc/huya/29465849
+封神榜,https://live.metshop.top/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,https://www.goodiptv.club/yy/1382745184
@@ -523,3 +524,4 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164
+射雕英雄传,https://live.metshop.top/huya/23824164
